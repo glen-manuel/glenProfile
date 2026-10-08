@@ -30,6 +30,16 @@ http://localhost:5173
 npm run build
 ```
 
+## Deploy to Vercel
+
+Deploy this project folder (the folder containing `package.json`) to Vercel. Vercel
+uses the included `vercel.json` to build the Vite app and publish the `dist` folder.
+No environment variables are required.
+
+For a Git-based deployment, set **Root Directory** to
+the path to this folder relative to your repository root if it is inside a
+larger repository.
+
 ## Main files
 
 - `src/App.jsx` - portfolio content and React components
