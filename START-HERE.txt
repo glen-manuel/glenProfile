@@ -1,0 +1,22 @@
+GLEN MANUEL PORTFOLIO - START HERE
+
+IMPORTANT: Do NOT double-click index.html.
+This is a React/Vite project and must be started through the VS Code terminal.
+
+1. Open this folder in VS Code.
+2. Terminal -> New Terminal.
+3. Run:
+   npm install
+4. Then run:
+   npm run dev
+5. Open the Local URL shown by Vite, normally:
+   http://localhost:5173/
+
+If npm is not recognized, install Node.js LTS from https://nodejs.org/ and restart VS Code.
+
+If the page is still blank:
+- Look at the terminal for red error text.
+- In Chrome press F12 -> Console and look for red errors.
+- Send me a screenshot of the error and I can fix the exact problem.
+
+Do not open index.html directly from File Explorer; that commonly causes a blank page because Vite is needed to process the React modules.
